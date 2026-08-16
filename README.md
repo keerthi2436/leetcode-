@@ -84,3 +84,39 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 ---
 
 ⭐ *One problem at a time. One concept at a time. Continuously improving.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
+<!---LeetCode Topics End-->
