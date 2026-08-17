@@ -91,11 +91,13 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/keerthi2436/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
+| [1563-stone-game-v](https://github.com/keerthi2436/leetcode-/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/keerthi2436/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
+| [1563-stone-game-v](https://github.com/keerthi2436/leetcode-/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -114,6 +116,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/keerthi2436/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
+| [1563-stone-game-v](https://github.com/keerthi2436/leetcode-/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
@@ -128,6 +131,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/keerthi2436/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
+| [1563-stone-game-v](https://github.com/keerthi2436/leetcode-/tree/main/1563-stone-game-v/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
