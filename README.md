@@ -95,6 +95,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | [1563-stone-game-v](https://github.com/keerthi2436/leetcode-/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/keerthi2436/leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keerthi2436/leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/keerthi2436/leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | [0486-predict-the-winner](https://github.com/keerthi2436/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [1563-stone-game-v](https://github.com/keerthi2436/leetcode-/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keerthi2436/leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,8 +151,21 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/keerthi2436/leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keerthi2436/leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/keerthi2436/leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keerthi2436/leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keerthi2436/leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keerthi2436/leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 <!---LeetCode Topics End-->
