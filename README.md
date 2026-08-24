@@ -93,6 +93,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | [0486-predict-the-winner](https://github.com/keerthi2436/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/keerthi2436/leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/keerthi2436/leetcode-/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/keerthi2436/leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/keerthi2436/leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keerthi2436/leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -102,6 +103,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/keerthi2436/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [1563-stone-game-v](https://github.com/keerthi2436/leetcode-/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/keerthi2436/leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/keerthi2436/leetcode-/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keerthi2436/leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -116,6 +118,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/keerthi2436/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
+| [1872-stone-game-viii](https://github.com/keerthi2436/leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -126,6 +129,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/keerthi2436/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [1563-stone-game-v](https://github.com/keerthi2436/leetcode-/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/keerthi2436/leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/keerthi2436/leetcode-/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
@@ -136,12 +140,14 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/keerthi2436/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
+| [1872-stone-game-viii](https://github.com/keerthi2436/leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/keerthi2436/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [1563-stone-game-v](https://github.com/keerthi2436/leetcode-/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/keerthi2436/leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,4 +182,8 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1927-sum-game](https://github.com/keerthi2436/leetcode-/tree/main/1927-sum-game/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/keerthi2436/leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 <!---LeetCode Topics End-->
