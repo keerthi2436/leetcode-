@@ -98,6 +98,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/keerthi2436/leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keerthi2436/leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/keerthi2436/leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/keerthi2436/leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +158,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/keerthi2436/leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/keerthi2436/leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/keerthi2436/leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
