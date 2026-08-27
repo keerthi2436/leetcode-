@@ -115,6 +115,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | [1386-cinema-seat-allocation](https://github.com/keerthi2436/leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/keerthi2436/leetcode-/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keerthi2436/leetcode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +126,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keerthi2436/leetcode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | [1386-cinema-seat-allocation](https://github.com/keerthi2436/leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/keerthi2436/leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/keerthi2436/leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keerthi2436/leetcode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,8 +187,13 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1927-sum-game](https://github.com/keerthi2436/leetcode-/tree/main/1927-sum-game/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keerthi2436/leetcode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1872-stone-game-viii](https://github.com/keerthi2436/leetcode-/tree/main/1872-stone-game-viii/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keerthi2436/leetcode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 <!---LeetCode Topics End-->
