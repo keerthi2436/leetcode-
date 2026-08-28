@@ -188,6 +188,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | ------- | ------- |
 | [1927-sum-game](https://github.com/keerthi2436/leetcode-/tree/main/1927-sum-game/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keerthi2436/leetcode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/keerthi2436/leetcode-/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,4 +197,9 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keerthi2436/leetcode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/keerthi2436/leetcode-/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/keerthi2436/leetcode-/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 <!---LeetCode Topics End-->
