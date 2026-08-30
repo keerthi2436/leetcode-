@@ -95,6 +95,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | [1563-stone-game-v](https://github.com/keerthi2436/leetcode-/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/keerthi2436/leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/keerthi2436/leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/keerthi2436/leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/keerthi2436/leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keerthi2436/leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -116,6 +117,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | [1386-cinema-seat-allocation](https://github.com/keerthi2436/leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/keerthi2436/leetcode-/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/keerthi2436/leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keerthi2436/leetcode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
