@@ -116,6 +116,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keerthi2436/leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/keerthi2436/leetcode-/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3870-count-commas-in-range](https://github.com/keerthi2436/leetcode-/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/keerthi2436/leetcode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/keerthi2436/leetcode-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Greedy
