@@ -115,6 +115,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | [0486-predict-the-winner](https://github.com/keerthi2436/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [0836-rectangle-overlap](https://github.com/keerthi2436/leetcode-/tree/main/0836-rectangle-overlap/) | Easy |
 | [1563-stone-game-v](https://github.com/keerthi2436/leetcode-/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/keerthi2436/leetcode-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/keerthi2436/leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/keerthi2436/leetcode-/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/keerthi2436/leetcode-/tree/main/2029-stone-game-ix/) | Medium |
@@ -169,6 +170,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | [0486-predict-the-winner](https://github.com/keerthi2436/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/keerthi2436/leetcode-/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1563-stone-game-v](https://github.com/keerthi2436/leetcode-/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/keerthi2436/leetcode-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/keerthi2436/leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/keerthi2436/leetcode-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/keerthi2436/leetcode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -204,6 +206,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/keerthi2436/leetcode-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keerthi2436/leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -221,6 +224,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/keerthi2436/leetcode-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/keerthi2436/leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/keerthi2436/leetcode-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/keerthi2436/leetcode-/tree/main/3904-smallest-stable-index-ii/) | Medium |
