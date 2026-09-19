@@ -115,6 +115,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/keerthi2436/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [0836-rectangle-overlap](https://github.com/keerthi2436/leetcode-/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/keerthi2436/leetcode-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1563-stone-game-v](https://github.com/keerthi2436/leetcode-/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/keerthi2436/leetcode-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/keerthi2436/leetcode-/tree/main/1872-stone-game-viii/) | Hard |
@@ -285,6 +286,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/keerthi2436/leetcode-/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/keerthi2436/leetcode-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
