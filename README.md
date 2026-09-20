@@ -204,6 +204,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/keerthi2436/leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/keerthi2436/leetcode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +228,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/keerthi2436/leetcode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/keerthi2436/leetcode-/tree/main/1927-sum-game/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/keerthi2436/leetcode-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/keerthi2436/leetcode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keerthi2436/leetcode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/keerthi2436/leetcode-/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Prefix Sum
