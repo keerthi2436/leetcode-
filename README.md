@@ -194,6 +194,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/keerthi2436/leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/keerthi2436/leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/keerthi2436/leetcode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/keerthi2436/leetcode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -235,6 +236,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/keerthi2436/leetcode-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/keerthi2436/leetcode-/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/keerthi2436/leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/keerthi2436/leetcode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/keerthi2436/leetcode-/tree/main/1927-sum-game/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/keerthi2436/leetcode-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -267,6 +269,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/keerthi2436/leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/keerthi2436/leetcode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/keerthi2436/leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/keerthi2436/leetcode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -277,6 +280,7 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/keerthi2436/leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/keerthi2436/leetcode-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -309,4 +313,12 @@ Interested in **Artificial Intelligence, Machine Learning, Python, Algorithms, a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/keerthi2436/leetcode-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/keerthi2436/leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/keerthi2436/leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 <!---LeetCode Topics End-->
